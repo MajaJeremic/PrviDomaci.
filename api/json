@@ -1,0 +1,13 @@
+{
+    "id":"2870ri",
+    "ime":"Ana",
+    "prezime":"Jovanovic",
+    "smer":"gluma",
+    "predmeti":["gluma","arkobatika","balet"],
+    "prosek":8.9,
+    "kontakt":{
+        "adresa":"Vitanovacka",
+        "mesto":"Beograd",
+        "telefon":0668765521
+    }
+}
